@@ -1,0 +1,11 @@
+
+#blackhole{
+    background-color: black;
+    width: 400px;
+    height: 400px;
+}
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
